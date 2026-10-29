@@ -61,6 +61,6 @@ A real model adapter can sit behind the input policy and before output inspectio
 - [Cloud Attack-Path Prioritizer](https://github.com/niketkrishnan/cloud-attack-path-prioritizer) — graph reasoning over cloud trust paths.
 - [SBOM Supply-Chain Intelligence](https://github.com/niketkrishnan/sbom-supply-chain-intelligence) — policy decisions that developers can act on.
 - [Identity Compromise Detector](https://github.com/niketkrishnan/identity-compromise-detector) — privacy-safe risk explanations.
-- [Portfolio site](https://github.com/niketkrishnan/HTML-Website) — recruiter-facing overview.
+- [Portfolio site](https://niketkrishnan.github.io) — resume-aligned project map.
 
 For security concerns, use a private GitHub Security Advisory or contact [@niketkrishnan](https://github.com/niketkrishnan). Keep real secrets and production prompts out of public issues.
